@@ -1,7 +1,7 @@
 # measure
 Measuring with computer vision
-<img href="t.png">
-<a href="https://www.instagram.com/p/CI3IEgtps7a/">Video </a>
+
+<a href="https://www.instagram.com/p/CI3IEgtps7a/">Video <img src="t.png"></a>
 ----
 - You need a QR code (can be empty, don't matters what it contain).
 - Mine was 5 cm (500 millimeters).
